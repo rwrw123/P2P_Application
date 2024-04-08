@@ -19,6 +19,6 @@ This program enables a real-time communication between a client and server over 
       2. Run the client script:
       python client.py
       - Follow the on-screen prompts to send message to the server
-![<img width="512" alt="Screen Shot 2024-04-07 at 10 59 38 PM" src="https://github.com/rwrw123/P2P_Application/assets/113308286/05afddc7-aa0a-4a29-be82-092b972085a2">]
-![<img width="534" alt="Screen Shot 2024-04-07 at 10 59 23 PM" src="https://github.com/rwrw123/P2P_Application/assets/113308286/87e516ab-42a5-48ae-ae59-cd3c9b2eb0b9">]
+<img width="512" alt="Screen Shot 2024-04-07 at 10 59 38 PM" src="https://github.com/rwrw123/P2P_Application/assets/113308286/05afddc7-aa0a-4a29-be82-092b972085a2">
+<img width="534" alt="Screen Shot 2024-04-07 at 10 59 23 PM" src="https://github.com/rwrw123/P2P_Application/assets/113308286/87e516ab-42a5-48ae-ae59-cd3c9b2eb0b9">
 
